@@ -1,8 +1,8 @@
-\# Customer Segmentation using RFM Analysis (BigQuery)
+\ Customer Segmentation using RFM Analysis (BigQuery)
 
 
 
-\## 📌 Project Overview
+\ 📌 Project Overview
 
 
 
@@ -14,7 +14,7 @@ This project analyzes customer purchasing behavior using the RFM (Recency, Frequ
 
 
 
-\## 🛠️ Tech Stack
+\ 🛠️ Tech Stack
 
 
 
@@ -30,7 +30,7 @@ This project analyzes customer purchasing behavior using the RFM (Recency, Frequ
 
 
 
-\## 📊 Dataset
+\ 📊 Dataset
 
 
 
@@ -62,11 +62,11 @@ Used to calculate:
 
 
 
-\## ⚙️ Methodology
+\ ⚙️ Methodology
 
 
 
-\### 1. Data Preparation
+\ 1. Data Preparation
 
 
 
@@ -74,7 +74,7 @@ Used to calculate:
 
 
 
-\### 2. RFM Calculation
+\ 2. RFM Calculation
 
 
 
@@ -86,7 +86,7 @@ Used to calculate:
 
 
 
-\### 3. Scoring
+\ 3. Scoring
 
 
 
@@ -94,7 +94,7 @@ Used to calculate:
 
 
 
-\### 4. Segmentation
+\4. Segmentation
 
 
 
@@ -124,7 +124,7 @@ Customers grouped into:
 
 
 
-\## 📊 Dashboard (Power BI)
+\ 📊 Dashboard (Power BI)
 
 
 
@@ -140,7 +140,7 @@ Customers grouped into:
 
 
 
-\## 📈 Key Insights
+\ 📈 Key Insights
 
 
 
@@ -156,7 +156,7 @@ Customers grouped into:
 
 
 
-\## 💡 Business Recommendations
+\ 💡 Business Recommendations
 
 
 
@@ -172,7 +172,7 @@ Customers grouped into:
 
 
 
-\## 📄 Report
+\ 📄 Report
 
 
 
@@ -184,7 +184,7 @@ Check the full report in the repository.
 
 
 
-\## 👨‍💻 Author
+\👨‍💻 Author
 
 
 
